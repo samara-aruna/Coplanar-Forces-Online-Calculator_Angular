@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    background-color:burlywood;
+    padding:0;
+    margin:0;
+    background-image:url('assets/Images/physics-w4ac9eqvnunc0ocp.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
